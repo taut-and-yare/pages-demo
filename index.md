@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub pages demo for Marc
 
 You can use the [editor on GitHub](https://github.com/taut-and-yare/pages-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
